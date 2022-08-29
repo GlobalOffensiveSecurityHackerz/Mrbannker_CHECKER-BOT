@@ -6,17 +6,17 @@
     },
     "TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "",
+      "value": "5730054104:AAFjqnBteM_eKJqo7beo5rqGPgg3oTdRsG0",
       "required": true
     },
     "OWNER": {
       "description": "Owner user_id.",
-      "value": "",
+      "value": "5156105562",
       "required": true
     },
     "ANTISPAM": {
       "description": "Antispam bot limit bot sleep for how many time in cmd spam",
-      "value": "",
+      "value": "10",
       "required": true
     },
     "BLACKLISTED": {
